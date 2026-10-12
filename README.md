@@ -165,7 +165,5 @@
 
 </p>
 
-<br clear="both">
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/murilobsp/murilobsp/snake-output/snake.svg" alt="Snake animation" />
 
