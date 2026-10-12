@@ -3,7 +3,7 @@
 
 🙋🏻Sou de Goiânia, Goiás, atualmente estou cursando Ciência da computação pela Universidade Paulista - UNIP. 
 
-**`💻 Desenvolvimento Full Stack e Mobile | Java, Spring Boot, React, Flutter e Python.`**
+**`💻 Desenvolvedor Full Stack e Mobile | Java, Spring Boot, React, Flutter e Python.`**
 
 <div data-importer="socials" align="left">
   <a href="https://www.linkedin.com/in/murilobsp/" target="_blank">
